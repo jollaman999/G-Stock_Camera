@@ -1,0 +1,4 @@
+!!!IMPORTANT!!!
+
+You should rename or remove "/system/lib/hw/camera.qcom.so".
+If you don't, the camera is not working.
